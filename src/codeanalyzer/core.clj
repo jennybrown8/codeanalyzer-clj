@@ -1,4 +1,4 @@
-(ns codeanalyzer-clj.core
+(ns codeanalyzer.core
   (:gen-class))
 
 (defn -main
