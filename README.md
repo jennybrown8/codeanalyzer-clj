@@ -1,4 +1,4 @@
-# codeanalyzer-clj
+# codeanalyzer
 
 This project reads Java code (classes, jars, wars, etc) and produces a static
 analysis of class and method relationships.  It's a re-implementation of
@@ -16,9 +16,11 @@ Just use git clone.
 To begin with, only unit tests will be implemented.  Eventually it will run 
 against more flexible data sources and then you can use it as a jar.
 
-    $ java -jar codeanalyzer-clj-0.1.0-standalone.jar [args]
+    $ java -jar codeanalyzer-0.1.0-standalone.jar [args]
 
 ## License
 
-Copyright © 2016 Jenny Brown
+Code Analyzer is copyright © 2016 Jenny Brown.
+
+Third party libraries are used per their respective original licenses.
 
